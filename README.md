@@ -1,16 +1,7 @@
 # riverpod_example_2
 
-A new Flutter project.
+Made this Flutter Project to start learning Riverpod and Hooks.
 
-## Getting Started
+## Concept
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This proejct is a simple app which uses Riverpod to update a counter in the Appbar.
